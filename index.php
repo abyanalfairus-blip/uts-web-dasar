@@ -1,4 +1,7 @@
-<?php include 'koneksi.php'; ?>
+<?php 
+// Versi 2.0: Update Tampilan Teknik Informatika 
+include 'koneksi.php'; 
+?>git add .
 <!DOCTYPE html>
 <html lang="id">
 <head>
