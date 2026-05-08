@@ -99,3 +99,9 @@ if ($id) {
     </div>
 </body>
 </html>
+<script>
+// Final Check: Validasi NIM dan Ukuran File
+document.getElementById('mForm').onsubmit = function() {
+    // ... kode JS Anda ...
+};
+</script>
